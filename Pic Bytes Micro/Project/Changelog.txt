@@ -1,0 +1,7 @@
+**** V0.1: 23/08/2020
+  -Screen matrix done.
+  -Game pad done.
+  -PIC18F4550 wired.
+  -Splash developed.
+  -Initial Core Libraries
+  -Snake Game Beta
