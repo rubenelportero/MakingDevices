@@ -12,3 +12,13 @@ Everything you will find here is free and open: Software, Hardware and documenta
 
 Date: 23/08/2020
 *********************************************************************************************
+
+*********************************************************************************************
+Bytes Counter
+
+Bytes Counter is just a Digital Tally Counter. The project was chosen to test some PCB manufacturer capabilities and experiment with both the XLP (Extreme Low-Power Technology) and the pic18LF14k50 itself.
+
+Everything you will find here is free and open: Software, Hardware and documentation
+
+Date: 16/08/2021
+*********************************************************************************************
