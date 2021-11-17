@@ -1,3 +1,0 @@
-(sym_lib_table
-  (lib (name BytesCounter-rescue)(type Legacy)(uri ${KIPRJMOD}/BytesCounter-rescue.lib)(options "")(descr ""))
-)
